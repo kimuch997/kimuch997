@@ -1,7 +1,15 @@
-## Hi there 👋
+<h1>Hi, I'm Anthony Kimathi <br/><a href="https://github.com/kimuch997">Programmer</a>, <a 
 
-<!--
-**kimuch997/kimuch997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
+<h2> 🤳 Connect with me:</h2>
+
+
+
+[twitter]: https://twitter.com/justkimuch
+[instagram]: https://www.instagram.com/_k.imuch/
+[linkedin]: www.linkedin.com/in/anthony-kimathi-86b249266
 
 Here are some ideas to get you started:
 
